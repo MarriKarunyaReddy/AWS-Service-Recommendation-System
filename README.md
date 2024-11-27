@@ -1,1 +1,1 @@
-[View the PDF Documentation](./srs report.pdf)
+[View the PDF Documentation](srs report.pdf)
